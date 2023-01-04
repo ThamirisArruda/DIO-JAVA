@@ -1,7 +1,8 @@
+package Variaveis;
 public class TiposVariaveis {
 public static void main(String[] args) {
     
-    int numeroNormal = numeroCurto;
+    int numeroNormal = numeroCurto2;
     short numeroCurto2 = (short) numeroNormal;
 
     int numero = 5;

@@ -15,10 +15,12 @@ public class Relacionais {
     }
 }
 
-//==  variavel é IGUAL A outra;
+/*  
+==  variavel é IGUAL A outra;
 //! variavel é DIFERENTE da outra;
 //> variavel é MAIOR QUE  a outra;
 //>= variavel MAIOR OU IGUAL a outra;
 //< variavel MENOR QUE outra;
 //<= variavel MENOR OU IGUAL;
 //usa equals para objetos
+*/

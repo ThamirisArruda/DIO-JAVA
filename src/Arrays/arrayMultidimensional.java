@@ -1,7 +1,7 @@
 package Arrays;
 
 import java.util.Random;
-
+/*Faça uma matriz com números aleatorios */
 public class arrayMultidimensional {
     public static void main(String[] args) {
         Random random = new Random();
